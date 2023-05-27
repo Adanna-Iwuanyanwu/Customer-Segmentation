@@ -1,6 +1,4 @@
-## Customer-Segmentation
-
-## DATA USED
+## CUSTOMER SEGMENTATION
 The data i used for this analysis was gotten from https://absentdata.com/ 
 
 ## INTRODUCTION
