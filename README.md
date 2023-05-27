@@ -7,4 +7,15 @@ Customer segmentation is the process of dividing customers with similar characte
 ## AIM OF THE ANALYSIS
 The analysis was done to understand the buying behaviour of customers between 2010 and 2011 and to know the classification of customers based on their various segments.
 
+
+## DATA ANALYSIS PROCESS
+The steps below were taken to achieve the result of this analysis;
+1.	Data Cleaning
+2.	Customer Segmentation
+3.	Data Visualization
+4.	Insight Communication
+
+## DATA CLEANING
+I used Power Query to clean and transformed the data. I removed some irrelevant columns that were not needed for this analysis and added the sales amount column.
+
  
