@@ -1,5 +1,5 @@
 ## CUSTOMER SEGMENTATION
-The data i used for this analysis was gotten from https://absentdata.com/data-analysis/where-to-find-data/
+The data used for this analysis was gotten from https://absentdata.com/data-analysis/where-to-find-data/
 
 ## INTRODUCTION
 Customer segmentation is the process of dividing customers with similar characteristics into discrete groups for the purpose of marketing or sales. We can use the RFM analysis to segment customers into different groups. RFM stands for Recency which means how recently a customer purchased an item, Frequency which means how frequently the customer patronises the business, and monetary which means the financial value of the customer to the business. The Frequency and Monetary value show the Customer Lifetime Value while the Recency measures retention and gives insights into retention and customer engagement.
@@ -14,8 +14,13 @@ The steps below were taken to achieve the result of this analysis;
 2.	Customer Segmentation
 3.	Data Visualization
 4.	Insight and Recommendation
+
 ## DATA CLEANING
 I used Power Query to clean and transformed the data. I removed some irrelevant columns that were not needed for this analysis and added the sales amount column.
+
+## CUSTOMER SEGMENTATION
+RFM is a method which is used to prioritize customers. RFM score is defined on a scale of 1 to 5. 1 is the lowest and 5 is the highest. When the recency score is low, it means a customer has recently patronised the business. But if the Frequency and Monetary scores are low, it means a customer hardly patronises the business. I used the segmentation process in this https://www.putler.com/rfm-analysis/ which describes the difference between RFM scores and values. The percentile method was used to calculate the RFM score.
+
 
 ## DATA VISUALIZATION
 ![Customer Segmentation png](https://github.com/Adanna-Iwuanyanwu/Customer-Segmentation/assets/47563475/25a16549-0d6f-43cb-a7c1-8b3f28c1aae6)
